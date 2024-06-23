@@ -21,7 +21,7 @@ class CardSelectionVC: UIViewController {
     
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
-//        timer.invalidate()
+        timer.invalidate()
        
     }
     
